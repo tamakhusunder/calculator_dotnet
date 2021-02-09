@@ -1,0 +1,8 @@
+E:\8th sem\dotnet\vs_project\Calculator(lab3)\Calculator\Calculator\bin\Debug\Calculator.exe.config
+E:\8th sem\dotnet\vs_project\Calculator(lab3)\Calculator\Calculator\bin\Debug\Calculator.exe
+E:\8th sem\dotnet\vs_project\Calculator(lab3)\Calculator\Calculator\bin\Debug\Calculator.pdb
+E:\8th sem\dotnet\vs_project\Calculator(lab3)\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+E:\8th sem\dotnet\vs_project\Calculator(lab3)\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+E:\8th sem\dotnet\vs_project\Calculator(lab3)\Calculator\Calculator\obj\Debug\Calculator.exe
+E:\8th sem\dotnet\vs_project\Calculator(lab3)\Calculator\Calculator\obj\Debug\Calculator.pdb
+E:\8th sem\dotnet\vs_project\Calculator(lab3)\Calculator\Calculator\obj\Debug\Calculator.Calculator.resources

@@ -1,0 +1,9 @@
+E:\8th sem\dotnet\vs_project\Calculator(lab3)\Calculator\Calculator\bin\Release\Calculator.exe.config
+E:\8th sem\dotnet\vs_project\Calculator(lab3)\Calculator\Calculator\bin\Release\Calculator.exe
+E:\8th sem\dotnet\vs_project\Calculator(lab3)\Calculator\Calculator\bin\Release\Calculator.pdb
+E:\8th sem\dotnet\vs_project\Calculator(lab3)\Calculator\Calculator\obj\Release\Calculator.Calculator.resources
+E:\8th sem\dotnet\vs_project\Calculator(lab3)\Calculator\Calculator\obj\Release\Calculator.Properties.Resources.resources
+E:\8th sem\dotnet\vs_project\Calculator(lab3)\Calculator\Calculator\obj\Release\Calculator.csproj.GenerateResource.Cache
+E:\8th sem\dotnet\vs_project\Calculator(lab3)\Calculator\Calculator\obj\Release\Calculator.exe
+E:\8th sem\dotnet\vs_project\Calculator(lab3)\Calculator\Calculator\obj\Release\Calculator.pdb
+E:\8th sem\dotnet\vs_project\Calculator(lab3)\Calculator\Calculator\obj\Release\Calculator.csprojResolveAssemblyReference.cache
